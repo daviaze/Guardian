@@ -1,0 +1,2 @@
+C:\desenvolvimento\scanntech\ApiScanntech\bin\Debug\netcoreapp3.1\ApiScanntech.exe
+Guardian

@@ -1,0 +1,66 @@
+13/04/2022 14:35:53
+Cupom: 143309
+BadRequest
+13/04/2022 14:40:30
+Cupom: 143309
+{"appErrorCode":"FALLO_MOV_SUMA_PAGOS","url":null,"message":"FALLO_MOV_SUMA_PAGOS"}
+26/04/2022 16:30:14
+Cupom: 143266 -> 
+26/04/2022 16:33:58
+Cupom: 143266 -> {"appErrorCode":"FALLO_MOV_SUMA_PAGOS","url":null,"message":"FALLO_MOV_SUMA_PAGOS"}
+29/04/2022 14:02:21
+Cupom: 143267 -> {"appErrorCode":"FALLO_MOV_SUMA_PAGOS","url":null,"message":"FALLO_MOV_SUMA_PAGOS"}
+29/04/2022 14:03:02
+Cupom: 143268 -> {"appErrorCode":"FALLO_MOV_SUMA_PAGOS","url":null,"message":"FALLO_MOV_SUMA_PAGOS"}
+29/04/2022 14:03:32
+Cupom: 143284 -> {"appErrorCode":"FALLO_MOV_SUMA_PAGOS","url":null,"message":"FALLO_MOV_SUMA_PAGOS"}
+29/04/2022 14:05:45
+Cupom: 143314 -> {"appErrorCode":"FALLO_MOV_SUMA_PAGOS","url":null,"message":"FALLO_MOV_SUMA_PAGOS"}
+29/04/2022 15:25:58
+Cupom: 143314 Empresa: 1 - Caixa: 106 -> {"appErrorCode":"FALLO_MOV_SUMA_PAGOS","url":null,"message":"FALLO_MOV_SUMA_PAGOS"}
+29/04/2022 17:31:26
+Cupom: 143314 - Empresa: 1 - Caixa: 106 -> {"appErrorCode":"FALLO_MOV_SUMA_PAGOS","url":null,"message":"FALLO_MOV_SUMA_PAGOS"}
+02/05/2022 16:34:10
+Cupom: 186538 - Empresa: 2 - Caixa: 539 -> {"appErrorCode":"FALLO_MOV_SUMA_PAGOS","url":null,"message":"FALLO_MOV_SUMA_PAGOS"}
+05/05/2022 17:21:32
+Cupom: 84288 - Empresa: 1 - Caixa: 100 -> {"appErrorCode":"FALLO_MOV_SUMA_PAGOS","url":null,"message":"FALLO_MOV_SUMA_PAGOS"}
+05/05/2022 17:22:30
+Cupom: 84292 - Empresa: 1 - Caixa: 100 -> {"appErrorCode":"FALLO_MOV_SUMA_PAGOS","url":null,"message":"FALLO_MOV_SUMA_PAGOS"}
+05/05/2022 17:23:19
+Cupom: 12 - Empresa: 1 - Caixa: 100 -> {"appErrorCode":"FALLO_MOV_SUMA_PAGOS","url":null,"message":"FALLO_MOV_SUMA_PAGOS"}
+05/05/2022 17:49:09
+Cupom: 12 - Empresa: 1 - Caixa: 100 -> {"appErrorCode":"FALLO_MOV_SUMA_PAGOS","url":null,"message":"FALLO_MOV_SUMA_PAGOS"}
+05/05/2022 17:59:11
+Cupom: 12 - Empresa: 1 - Caixa: 100 -> {"appErrorCode":"FALLO_MOV_SUMA_PAGOS","url":null,"message":"FALLO_MOV_SUMA_PAGOS"}
+18/05/2022 09:32:27
+Cupom: 269670 - Empresa: 1 - Caixa: 9 -> 
+18/05/2022 11:46:38
+Cupom: 265912 - Empresa: 1 - Caixa: 2 -> {"appErrorCode":"FALLO_MOV_SUMA_DETALLES","url":null,"message":"FALLO_MOV_SUMA_DETALLES"}
+18/05/2022 14:12:57
+Cupom: 265912 - Empresa: 1 - Caixa: 2 -> {"appErrorCode":"FALLO_MOV_SUMA_DETALLES","url":null,"message":"FALLO_MOV_SUMA_DETALLES"}
+20/05/2022 10:24:51
+Cupom: 100054 - Empresa: 2 - Caixa: 9 -> {"appErrorCode":"FALLO_MOV_SUMA_DETALLES","url":null,"message":"FALLO_MOV_SUMA_DETALLES"}
+20/05/2022 10:31:23
+Cupom: 100054 - Empresa: 2 - Caixa: 9 -> {"appErrorCode":"FALLO_MOV_SUMA_DETALLES","url":null,"message":"FALLO_MOV_SUMA_DETALLES"}
+02/06/2022 10:41:51
+Cupom: 101036 - Empresa: 2 - Caixa: 10 -> 
+02/06/2022 10:44:46
+Cupom: 55198 - Empresa: 2 - Caixa: 12 -> 
+27/06/2022 15:16:35
+Cupom: -84518 - Empresa: 2 - Caixa: 100 -> {"appErrorCode":"FALLO_MOV_DETALLES","url":null,"message":"FALLO_MOV_DETALLES"}
+22/07/2022 17:57:31
+Cupom: 253668 - Empresa: 1 - Caixa: 539 -> {"appErrorCode":"FALLO_MOV_DETALLES","url":null,"message":"FALLO_MOV_DETALLES"}
+25/07/2022 14:56:44
+Cupom: 84528 - Empresa: 2 - Caixa: 100 -> {"appErrorCode":"FALLO_MOV_SUMA_DETALLES","url":null,"message":"FALLO_MOV_SUMA_DETALLES"}
+25/07/2022 14:56:46
+Cupom: 84529 - Empresa: 2 - Caixa: 100 -> {"appErrorCode":"FALLO_MOV_SUMA_DETALLES","url":null,"message":"FALLO_MOV_SUMA_DETALLES"}
+25/07/2022 14:57:10
+Cupom: 84530 - Empresa: 2 - Caixa: 100 -> {"appErrorCode":"FALLO_MOV_SUMA_DETALLES","url":null,"message":"FALLO_MOV_SUMA_DETALLES"}
+25/07/2022 14:57:14
+Cupom: 84533 - Empresa: 2 - Caixa: 100 -> {"appErrorCode":"FALLO_MOV_SUMA_DETALLES","url":null,"message":"FALLO_MOV_SUMA_DETALLES"}
+25/07/2022 14:57:15
+Cupom: 84534 - Empresa: 2 - Caixa: 100 -> {"appErrorCode":"FALLO_MOV_SUMA_DETALLES","url":null,"message":"FALLO_MOV_SUMA_DETALLES"}
+15/08/2022 13:49:12
+Cupom: 343160 - Empresa: 1 - Caixa: 15 -> {"appErrorCode":"FALLO_MOV_SUMA_PAGOS","url":null,"message":"FALLO_MOV_SUMA_PAGOS"}
+30/08/2022 14:50:41
+Cupom: 253692 - Empresa: 1 - Caixa: 539 -> {"appErrorCode":"FALLO_MOV_SUMA_PAGOS","url":null,"message":"FALLO_MOV_SUMA_PAGOS"}

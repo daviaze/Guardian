@@ -1,0 +1,2 @@
+C:\desenvolvimento\Guardian\Guardian\Guardian\bin\Debug\net6.0\ApiScanntech.exe
+Serviço Guardian

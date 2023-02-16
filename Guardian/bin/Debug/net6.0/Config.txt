@@ -1,0 +1,8 @@
+integrador_test@damsistemas.com.br
+integrador
+http://br.homo.apipdv.scanntech.com
+73594
+1
+192.168.0.250
+inova
+10
